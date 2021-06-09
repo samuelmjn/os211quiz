@@ -1,0 +1,349 @@
+ZCZC ===== Chapter 08_01 =====  Week 10 =====
+ZCZC pwd /home/samuelmjn/git/os211quiz/SandBox/W10/W10
+ZCZC date 210530-1549
+ZCZC hostname osp
+ZCZC username samuelmjn
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M	/mnt/lfs/sources/
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4934-37D3 Verified
+ZCZC MaxLFS 2643M
+ZCZC MaxROOT 2565M
+ZCZC MaxMemory 77M
+ZCZC MaxSwap 0M
+ZCZC MaxMemory 78M
+ZCZC MaxMemory 79M
+ZCZC MaxMemory 80M
+ZCZC MaxMemory 81M
+ZCZC MaxLFS 2675M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5037-1A57 Verified
+ZCZC MaxLFS 2728M
+ZCZC MaxMemory 145M
+ZCZC MaxLFS 2912M
+ZCZC MaxLFS 2914M
+ZCZC MaxLFS 2917M
+ZCZC MaxLFS 2922M
+ZCZC MaxLFS 2927M
+ZCZC MaxLFS 2931M
+ZCZC MaxMemory 184M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5139-3D9A Verified
+ZCZC MaxLFS 2935M
+ZCZC MaxMemory 279M
+ZCZC MaxLFS 2938M
+ZCZC MaxLFS 2942M
+ZCZC MaxLFS 2947M
+ZCZC MaxLFS 2951M
+ZCZC MaxLFS 2956M
+ZCZC MaxLFS 2961M
+ZCZC MaxLFS 2965M
+ZCZC MaxLFS 2969M
+ZCZC MaxLFS 2973M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5241-89B9 Verified
+ZCZC MaxLFS 2978M
+ZCZC MaxLFS 2982M
+ZCZC MaxLFS 2985M
+ZCZC MaxLFS 2989M
+ZCZC MaxLFS 2992M
+ZCZC MaxLFS 2995M
+ZCZC MaxLFS 3000M
+ZCZC MaxLFS 3005M
+ZCZC MaxLFS 3007M
+ZCZC MaxLFS 3009M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5344-7DE9 Verified
+ZCZC MaxLFS 3012M
+ZCZC MaxLFS 3016M
+ZCZC MaxLFS 3020M
+ZCZC MaxLFS 3024M
+ZCZC MaxLFS 3028M
+ZCZC MaxLFS 3031M
+ZCZC MaxLFS 3059M
+ZCZC MaxLFS 3087M
+ZCZC MaxLFS 3162M
+ZCZC MaxLFS 3167M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5447-F6D0 Verified
+ZCZC MaxLFS 3171M
+ZCZC MaxLFS 3174M
+ZCZC MaxLFS 3175M
+ZCZC MaxLFS 3177M
+ZCZC MaxLFS 3179M
+ZCZC MaxLFS 3181M
+ZCZC MaxLFS 3185M
+ZCZC MaxLFS 3186M
+ZCZC MaxLFS 3205M
+ZCZC MaxLFS 3208M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5549-5B22 Verified
+ZCZC MaxLFS 3212M
+ZCZC MaxLFS 3216M
+ZCZC MaxLFS 3220M
+ZCZC MaxLFS 3223M
+ZCZC MaxLFS 3226M
+ZCZC MaxLFS 3230M
+ZCZC MaxLFS 3233M
+ZCZC MaxLFS 3237M
+ZCZC MaxLFS 3265M
+ZCZC MaxLFS 3268M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5651-049A Verified
+ZCZC MaxLFS 3276M
+ZCZC MaxLFS 3283M
+ZCZC MaxLFS 3288M
+ZCZC MaxLFS 3293M
+ZCZC MaxLFS 3297M
+ZCZC MaxLFS 3307M
+ZCZC MaxLFS 3330M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5753-1622 Verified
+ZCZC MaxLFS 3428M
+ZCZC MaxLFS 3435M
+ZCZC MaxMemory 335M
+ZCZC MaxLFS 3437M
+ZCZC MaxMemory 345M
+ZCZC MaxLFS 3451M
+ZCZC MaxLFS 3469M
+ZCZC MaxLFS 3622M
+ZCZC MaxMemory 891M
+ZCZC MaxLFS 3635M
+ZCZC MaxMemory 927M
+ZCZC MaxLFS 3649M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5855-2852 Verified
+ZCZC MaxLFS 3663M
+ZCZC MaxLFS 3681M
+ZCZC MaxLFS 3689M
+ZCZC MaxLFS 3705M
+ZCZC MaxLFS 3717M
+ZCZC MaxLFS 3734M
+ZCZC MaxLFS 3744M
+ZCZC MaxLFS 3755M
+ZCZC MaxMemory 932M
+ZCZC MaxLFS 3766M
+ZCZC MaxLFS 3781M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5957-9BC3 Verified
+ZCZC MaxLFS 3800M
+ZCZC MaxLFS 3831M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0059-0769 Verified
+ZCZC MaxLFS 3840M
+ZCZC MaxLFS 3845M
+ZCZC MaxMemory 946M
+ZCZC MaxLFS 3849M
+ZCZC MaxLFS 3850M
+ZCZC MaxLFS 3859M
+ZCZC MaxLFS 3860M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0200-9961 Verified
+ZCZC MaxLFS 3871M
+ZCZC MaxLFS 3875M
+ZCZC MaxLFS 3877M
+ZCZC MaxLFS 3878M
+ZCZC MaxLFS 3889M
+ZCZC MaxLFS 3893M
+ZCZC MaxLFS 3910M
+ZCZC MaxLFS 3926M
+ZCZC MaxLFS 3948M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0302-E918 Verified
+ZCZC MaxLFS 3966M
+ZCZC MaxLFS 4029M
+ZCZC MaxLFS 4035M
+ZCZC MaxLFS 4044M
+ZCZC MaxLFS 4051M
+ZCZC MaxLFS 4055M
+ZCZC MaxLFS 4065M
+ZCZC MaxLFS 4074M
+ZCZC MaxLFS 4082M
+ZCZC MaxLFS 4088M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0405-AE45 Verified
+ZCZC MaxLFS 4096M
+ZCZC MaxLFS 4101M
+ZCZC MaxLFS 4109M
+ZCZC MaxLFS 4118M
+ZCZC MaxLFS 4124M
+ZCZC MaxLFS 4129M
+ZCZC MaxLFS 4133M
+ZCZC MaxLFS 4139M
+ZCZC MaxLFS 4144M
+ZCZC MaxLFS 4176M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0508-0439 Verified
+ZCZC MaxLFS 4240M
+ZCZC MaxLFS 4277M
+ZCZC MaxLFS 4316M
+ZCZC MaxLFS 4346M
+ZCZC MaxLFS 4362M
+ZCZC MaxLFS 4365M
+ZCZC MaxLFS 4382M
+ZCZC MaxMemory 1099M
+ZCZC MaxSwap 19M
+ZCZC MaxLFS 4391M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0611-BE2B Verified
+ZCZC MaxLFS 4400M
+ZCZC MaxLFS 4427M
+ZCZC MaxLFS 4430M
+ZCZC MaxLFS 4431M
+ZCZC MaxLFS 4432M
+ZCZC MaxLFS 4433M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0713-98E4 Verified
+ZCZC MaxLFS 4434M
+ZCZC MaxLFS 4436M
+ZCZC MaxLFS 4445M
+ZCZC MaxLFS 4447M
+ZCZC MaxLFS 4448M
+ZCZC MaxLFS 4449M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0814-4DBA Verified
+ZCZC MaxLFS 4461M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0915-C16B Verified
+ZCZC MaxLFS 4464M
+ZCZC MaxLFS 4465M
+ZCZC MaxLFS 4466M
+ZCZC MaxLFS 4467M
+ZCZC MaxLFS 4469M
+ZCZC MaxLFS 4470M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1017-543F Verified
+ZCZC MaxLFS 4471M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1118-4D03 Verified
+ZCZC MaxLFS 4472M
+ZCZC MaxLFS 4473M
+ZCZC MaxLFS 4476M
+ZCZC MaxLFS 4488M
+ZCZC MaxLFS 4489M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1220-9D57 Verified
+ZCZC MaxLFS 4491M
+ZCZC MaxLFS 4492M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1321-26DA Verified
+ZCZC MaxLFS 4493M
+ZCZC MaxLFS 4495M
+ZCZC MaxLFS 4496M
+ZCZC MaxLFS 4498M
+ZCZC MaxLFS 4499M
+ZCZC MaxLFS 4505M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1423-E45C Verified
+ZCZC MaxLFS 4511M
+ZCZC MaxLFS 4517M
+ZCZC MaxLFS 4518M
+ZCZC MaxLFS 4545M
+ZCZC MaxLFS 4547M
+ZCZC MaxLFS 4574M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1525-CE8C Verified
+ZCZC MaxLFS 4576M
+ZCZC MaxLFS 4595M
+ZCZC MaxLFS 4613M
+ZCZC MaxLFS 4622M
+ZCZC MaxLFS 4623M
+ZCZC MaxLFS 4628M
+ZCZC MaxLFS 4631M
+ZCZC MaxLFS 4634M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1627-DADE Verified
+ZCZC MaxLFS 4639M
+ZCZC MaxLFS 4640M
+ZCZC MaxLFS 4644M
+ZCZC MaxLFS 4659M
+ZCZC MaxLFS 4685M
+ZCZC MaxLFS 4698M
+ZCZC MaxLFS 4708M
+ZCZC MaxLFS 4725M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1728-7FA8 Verified
+ZCZC MaxLFS 4726M
+ZCZC MaxLFS 4730M
+ZCZC MaxLFS 4736M
+ZCZC MaxLFS 4737M
+ZCZC MaxLFS 4739M
+ZCZC MaxLFS 4740M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1830-4617 Verified
+ZCZC MaxLFS 4742M
+ZCZC MaxLFS 4743M
+ZCZC MaxLFS 4744M
+ZCZC MaxLFS 4777M
+ZCZC MaxLFS 4778M
+ZCZC MaxLFS 4779M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1933-E273 Verified
+ZCZC MaxLFS 4782M
+ZCZC MaxLFS 4790M
+ZCZC MaxLFS 4802M
+ZCZC MaxLFS 4816M
+ZCZC MaxLFS 4834M
+ZCZC MaxLFS 4843M
+ZCZC MaxLFS 4844M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2035-5641 Verified
+ZCZC MaxLFS 4845M
+ZCZC MaxLFS 4847M
+ZCZC MaxLFS 4859M
+ZCZC MaxLFS 4865M
+ZCZC MaxLFS 4883M
+ZCZC MaxLFS 5052M
+ZCZC MaxLFS 5053M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2136-D04B Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2238-1D1A Verified
+ZCZC MaxLFS 5086M
+ZCZC MaxLFS 5094M
+ZCZC MaxLFS 5107M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2339-E40C Verified
+ZCZC MaxLFS 5114M
+ZCZC MaxLFS 5117M
+ZCZC MaxLFS 5123M
+ZCZC MaxLFS 5127M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2440-36D0 Verified
+ZCZC MaxLFS 5130M
+ZCZC MaxLFS 5131M
+ZCZC MaxLFS 5134M
+ZCZC MaxLFS 5144M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2542-E6D1 Verified
+ZCZC MaxLFS 5150M
+ZCZC MaxLFS 5152M
+ZCZC MaxLFS 5157M
+ZCZC MaxLFS 5168M
+ZCZC MaxLFS 5171M
+ZCZC MaxLFS 5173M
+ZCZC MaxLFS 5176M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2645-5AAC Verified
+ZCZC MaxLFS 5179M
+ZCZC MaxLFS 5184M
+ZCZC MaxLFS 5186M
+ZCZC MaxLFS 5189M
+ZCZC MaxLFS 5191M
+ZCZC MaxLFS 5195M
+ZCZC MaxLFS 5201M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2747-9ACD Verified
+ZCZC MaxLFS 5209M
+ZCZC MaxLFS 5210M
+ZCZC MaxLFS 5215M
+ZCZC MaxLFS 5221M
+ZCZC MaxLFS 5228M
+ZCZC MaxLFS 5234M
+ZCZC MaxLFS 5237M
+ZCZC MaxLFS 5245M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2850-F2EB Verified
+ZCZC MaxLFS 5248M
+ZCZC MaxLFS 5253M
+ZCZC MaxLFS 5259M
+ZCZC MaxLFS 5270M
+ZCZC MaxLFS 5272M
+ZCZC MaxLFS 5275M
+ZCZC MaxLFS 5278M
+ZCZC MaxLFS 5284M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2952-62C7 Verified
+ZCZC MaxLFS 5287M
+ZCZC MaxLFS 5295M
+ZCZC MaxLFS 5304M
+ZCZC MaxLFS 5308M
+ZCZC MaxLFS 5316M
+ZCZC MaxLFS 5321M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3054-58BF Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3156-FD60 Verified
+ZCZC MaxLFS 5327M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3257-2648 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3358-11E6 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3500-9C34 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3601-05BE Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3704-AAEB Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3805-2704 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3906-93F0 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4008-A167 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4109-2D7B Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4211-558F Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4312-D611 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4414-D131 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4515-71D2 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4617-2389 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4719-252A Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4820-66BC Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4921-8042 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5023-0C10 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5125-CF49 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5227-7030 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5329-4010 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5431-A257 Verified

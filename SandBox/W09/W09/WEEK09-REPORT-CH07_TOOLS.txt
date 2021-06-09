@@ -1,0 +1,16 @@
+ZCZC ZCZC FILES 0
+ZCZC TOOLS 0	/root/lfs-temp-tools-10.1.tar.xz
+ZCZC ===== Chapter 07_TOOLS =====  Week 09 =====
+ZCZC pwd /home/samuelmjn/git/os211quiz/SandBox/W09/W09
+ZCZC date 210523-2056
+ZCZC hostname osp
+ZCZC username samuelmjn
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M	/mnt/lfs/sources/
+ZCZC verifyTokenn samuelmjnW09 samuelmjn 5630-579C Verified
+ZCZC MaxLFS 2629M
+ZCZC MaxROOT 1730M
+ZCZC MaxMemory 70M
+ZCZC MaxSwap 23M

@@ -1,0 +1,16 @@
+ZCZC ===== Chapter 07_5 =====  Week 09 =====
+ZCZC pwd /home/samuelmjn/git/os211quiz/SandBox/W09/W09
+ZCZC date 210523-2021
+ZCZC hostname osp
+ZCZC username samuelmjn
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M	/mnt/lfs/sources/
+ZCZC verifyTokenn samuelmjnW09 samuelmjn 2133-83B7 Verified
+ZCZC MaxLFS 3087M
+ZCZC MaxROOT 1730M
+ZCZC MaxMemory 83M
+ZCZC MaxSwap 1M
+ZCZC MaxMemory 84M
+ZCZC verifyTokenn samuelmjnW09 samuelmjn 2235-E197 Verified

@@ -1,0 +1,115 @@
+ZCZC ===== Chapter 08_18 =====  Week 10 =====
+ZCZC pwd /home/samuelmjn/git/os211quiz/SandBox/W10/W10
+ZCZC date 210530-1714
+ZCZC hostname osp
+ZCZC username samuelmjn
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M	/mnt/lfs/sources/
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1428-E6AD Verified
+ZCZC MaxLFS 2956M
+ZCZC MaxROOT 2563M
+ZCZC MaxMemory 78M
+ZCZC MaxSwap 0M
+ZCZC MaxMemory 80M
+ZCZC MaxMemory 81M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1530-2361 Verified
+ZCZC MaxLFS 3283M
+ZCZC MaxMemory 83M
+ZCZC MaxMemory 88M
+ZCZC MaxMemory 94M
+ZCZC MaxMemory 104M
+ZCZC MaxLFS 3284M
+ZCZC MaxMemory 118M
+ZCZC MaxLFS 3285M
+ZCZC MaxLFS 3290M
+ZCZC MaxMemory 132M
+ZCZC MaxLFS 3294M
+ZCZC MaxMemory 146M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1632-4CBB Verified
+ZCZC MaxLFS 3304M
+ZCZC MaxMemory 170M
+ZCZC MaxLFS 3311M
+ZCZC MaxMemory 179M
+ZCZC MaxLFS 3316M
+ZCZC MaxMemory 309M
+ZCZC MaxLFS 3319M
+ZCZC MaxLFS 3324M
+ZCZC MaxLFS 3355M
+ZCZC MaxLFS 3365M
+ZCZC MaxLFS 3372M
+ZCZC MaxLFS 3389M
+ZCZC MaxLFS 3396M
+ZCZC MaxMemory 968M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1734-B046 Verified
+ZCZC MaxLFS 3410M
+ZCZC MaxLFS 3415M
+ZCZC MaxMemory 1070M
+ZCZC MaxLFS 3429M
+ZCZC MaxMemory 1144M
+ZCZC MaxLFS 3435M
+ZCZC MaxLFS 3449M
+ZCZC MaxMemory 1364M
+ZCZC MaxLFS 3454M
+ZCZC MaxLFS 3458M
+ZCZC MaxMemory 1823M
+ZCZC MaxLFS 3495M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1837-6EB5 Verified
+ZCZC MaxLFS 3500M
+ZCZC MaxLFS 3517M
+ZCZC MaxMemory 1834M
+ZCZC MaxLFS 3547M
+ZCZC MaxMemory 2089M
+ZCZC MaxLFS 3558M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1939-C80A Verified
+ZCZC MaxLFS 3562M
+ZCZC MaxLFS 3564M
+ZCZC MaxLFS 3567M
+ZCZC MaxMemory 2429M
+ZCZC MaxLFS 3571M
+ZCZC MaxMemory 2908M
+ZCZC MaxLFS 3576M
+ZCZC MaxMemory 3166M
+ZCZC MaxLFS 3603M
+ZCZC MaxLFS 3701M
+ZCZC MaxLFS 3807M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2042-A1A5 Verified
+ZCZC MaxLFS 3839M
+ZCZC MaxLFS 3847M
+ZCZC MaxLFS 4039M
+ZCZC MaxLFS 4049M
+ZCZC MaxLFS 4083M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2143-3CCB Verified
+ZCZC MaxLFS 4106M
+ZCZC MaxLFS 4137M
+ZCZC MaxLFS 4179M
+ZCZC MaxLFS 4373M
+ZCZC MaxLFS 4465M
+ZCZC MaxLFS 4466M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2245-F21E Verified
+ZCZC MaxLFS 4468M
+ZCZC MaxLFS 5078M
+ZCZC MaxLFS 5455M
+ZCZC MaxLFS 5475M
+ZCZC MaxLFS 5560M
+ZCZC MaxLFS 5562M
+ZCZC MaxLFS 5564M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2347-4818 Verified
+ZCZC MaxLFS 5570M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2448-07BD Verified
+ZCZC MaxLFS 5967M
+ZCZC MaxLFS 8310M
+ZCZC MaxSwap 2M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2549-960E Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2651-428E Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2752-722E Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2854-7BCA Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2955-93EF Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3057-0736 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3159-CD48 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3300-E3B7 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3401-F662 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3502-56B4 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3603-5EB1 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3705-1410 Verified

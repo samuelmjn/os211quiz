@@ -1,0 +1,225 @@
+ZCZC ===== Chapter 08_41 =====  Week 10 =====
+ZCZC pwd /home/samuelmjn/git/os211quiz/SandBox/W10/W10
+ZCZC date 210530-2246
+ZCZC hostname osp
+ZCZC username samuelmjn
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M	/mnt/lfs/sources/
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4656-ECF4 Verified
+ZCZC MaxLFS 4431M
+ZCZC MaxROOT 2564M
+ZCZC MaxMemory 78M
+ZCZC MaxSwap 0M
+ZCZC MaxMemory 79M
+ZCZC MaxMemory 80M
+ZCZC MaxLFS 4432M
+ZCZC MaxMemory 81M
+ZCZC MaxMemory 83M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4759-1E08 Verified
+ZCZC MaxMemory 94M
+ZCZC MaxLFS 4433M
+ZCZC MaxLFS 4438M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4901-485B Verified
+ZCZC MaxLFS 4440M
+ZCZC MaxLFS 4448M
+ZCZC MaxLFS 4451M
+ZCZC MaxLFS 4452M
+ZCZC MaxLFS 4455M
+ZCZC MaxMemory 104M
+ZCZC MaxLFS 4460M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5002-D8C9 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5104-FBB4 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5205-7ACC Verified
+ZCZC MaxLFS 4461M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5306-57DC Verified
+ZCZC MaxMemory 105M
+ZCZC MaxMemory 106M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5408-ECB4 Verified
+ZCZC MaxLFS 4462M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5509-C7F4 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5610-7FAB Verified
+ZCZC MaxMemory 107M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5711-7E88 Verified
+ZCZC MaxLFS 4463M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5812-FDFC Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5914-2FAC Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0015-AD11 Verified
+ZCZC MaxLFS 4464M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0116-AF82 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0217-1BDD Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0319-DB5A Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0420-7DD4 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0521-AF28 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0622-B876 Verified
+ZCZC MaxLFS 4466M
+ZCZC MaxMemory 382M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0725-562B Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0826-5B02 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0928-2B90 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1030-72F3 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1132-99FB Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1233-C8E3 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1335-5687 Verified
+ZCZC MaxLFS 4467M
+ZCZC MaxLFS 4470M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1437-501E Verified
+ZCZC MaxLFS 4477M
+ZCZC MaxLFS 4480M
+ZCZC MaxLFS 4481M
+ZCZC MaxLFS 4482M
+ZCZC MaxLFS 4487M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1538-4CEF Verified
+ZCZC MaxLFS 4490M
+ZCZC MaxLFS 4492M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1640-E9D9 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1742-DD9B Verified
+ZCZC MaxLFS 4498M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1844-1951 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1946-BC0E Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2048-5AF2 Verified
+ZCZC MaxLFS 4500M
+ZCZC MaxLFS 4513M
+ZCZC MaxLFS 4526M
+ZCZC MaxLFS 4540M
+ZCZC MaxLFS 4553M
+ZCZC MaxLFS 4568M
+ZCZC MaxLFS 4579M
+ZCZC MaxLFS 4591M
+ZCZC MaxLFS 4603M
+ZCZC MaxLFS 4615M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2150-AD53 Verified
+ZCZC MaxLFS 4625M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2252-3A36 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2353-EBF7 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2455-FD71 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2557-16B1 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2658-DAD8 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2800-579C Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2902-78AB Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3004-9403 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3105-2E48 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3207-4D9B Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3309-729A Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3410-1F8A Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3511-13A9 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3613-3D25 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3715-8133 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3817-D320 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3919-13EE Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4020-5A39 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4122-88B9 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4223-D248 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4324-5D99 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4427-941A Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4528-DA73 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4629-31A1 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4731-24E4 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4833-145F Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4936-B9F9 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5039-656A Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5141-8644 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5243-42D3 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5344-7DE9 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5446-C0ED Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5548-EE35 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5649-B5B6 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5752-7698 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5854-1495 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5955-02C5 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0057-0EE7 Verified
+ZCZC MaxROOT 2565M
+ZCZC MaxROOT 2566M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0158-307A Verified
+ZCZC MaxMemory 391M
+ZCZC MaxMemory 538M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0300-B83C Verified
+ZCZC MaxLFS 4630M
+ZCZC MaxLFS 4638M
+ZCZC MaxLFS 4643M
+ZCZC MaxLFS 4648M
+ZCZC MaxLFS 4654M
+ZCZC MaxLFS 4659M
+ZCZC MaxLFS 4660M
+ZCZC MaxLFS 4663M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0402-EFDD Verified
+ZCZC MaxLFS 4664M
+ZCZC MaxLFS 4668M
+ZCZC MaxLFS 4673M
+ZCZC MaxLFS 4687M
+ZCZC MaxMemory 834M
+ZCZC MaxLFS 5835M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0504-D3D5 Verified
+ZCZC MaxLFS 6150M
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0607-7E6E Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0709-8BF9 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0811-F57D Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0914-25D9 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1016-7BA1 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1118-4D03 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1220-9D57 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1322-9580 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1423-E45C Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1525-CE8C Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1628-D617 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1729-16E1 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1832-7902 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1934-446C Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2036-F36C Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2137-B2B6 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2239-117B Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2342-A462 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2444-D3BA Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2546-EC21 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2648-C4E9 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2750-78C8 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2852-150B Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2954-3EB8 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3055-6B10 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3158-7685 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3300-E3B7 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3402-2F63 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3504-F6C6 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3606-46F8 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3707-D23D Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3810-6646 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 3912-950D Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4014-CAAA Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4116-C80F Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4217-717A Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4319-10DB Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4438-C769 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4540-E6F5 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4644-F965 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4751-4B39 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 4857-18BB Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5005-4D77 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5109-D4DB Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5219-42F4 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5324-C2FA Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5441-1F9B Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5546-0A57 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5647-DE08 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5749-AB89 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 5859-662D Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0000-F7C0 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0102-CC77 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0204-08B1 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0306-F32A Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0412-8C54 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0518-8C3F Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0621-4CE9 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0725-562B Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0833-9AEA Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 0934-55F5 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1042-78F4 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1145-70DB Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1247-3AAD Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1358-4440 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1504-F8C2 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1606-47DE Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1708-F8CF Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1811-87E8 Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 1913-5F5E Verified
+ZCZC verifyTokenn samuelmjnW10 samuelmjn 2015-1D9C Verified
